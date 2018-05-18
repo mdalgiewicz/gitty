@@ -1,0 +1,20 @@
+package pl.dalgim.gitty;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+/**
+ * @author Mateusz Dalgiewicz
+ */
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class GittyWebAppIT {
+
+  @Test
+  public void contextLoad() throws Exception {
+    assert true;
+  }
+
+}

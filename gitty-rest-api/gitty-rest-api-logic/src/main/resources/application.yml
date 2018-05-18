@@ -1,0 +1,23 @@
+server:
+  servlet:
+    context-path: /gitty
+    application-display-name: Gitty v1.0
+  port: 8090
+spring:
+  servlet:
+    multipart:
+      enabled: false
+gitty:
+  clients:
+    github:
+      baseUrl: https://api.github.com
+      readTimeout: 10000
+      connectionTimeout: 10000
+      repositoryPath: /repos
+  api:
+    logging: #Optional logging for http request/response (log4j level must be DEBUG)
+      clientInfo: true
+      queryString: true
+      payload: true
+      maxPayloadLength: 2000
+      headers: true

@@ -1,0 +1,7 @@
+[
+  {
+    "status": 500,
+    "errorCode": "server_error",
+    "message": "Some internal error"
+  }
+]

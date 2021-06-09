@@ -22,9 +22,6 @@ Opcjonalnie: `$ mvn failsafe:integration-test`
 `
 Http GET: http://localhost:8090/gitty/v1/repositories/dalgim/gitty`
 
-Uwaga! Wszystkie odpowiedzi zawierają dodatkowy nagłówek Trace-Id identyfikujący zapytanie. Nagłówek jest istotny 
-w przypadku kiedy chcemy zgłosić administratorowi problem z zapytaniem
-
 Przykład prawidłowej odpowiedzi: 
 ```json
 {

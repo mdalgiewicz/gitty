@@ -42,7 +42,7 @@
         <groovy-all.version>2.4.10</groovy-all.version>
         <cglib-nodep.version>3.2.5</cglib-nodep.version>
         <spock-core.version>1.0-groovy-2.4</spock-core.version>
-        <jackson-dataformat-xml.version>2.8.8</jackson-dataformat-xml.version>
+        <jackson-dataformat-xml.version>2.9.8</jackson-dataformat-xml.version>
         <guava.version>23.0</guava.version>
         <lombok.version>1.16.18</lombok.version>
         <spring-boot-starter-security.version>1.5.4.RELEASE</spring-boot-starter-security.version>

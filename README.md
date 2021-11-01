@@ -1,6 +1,6 @@
 
 #####Architektura
-Aplikacja powstała w oparciu o architekturę heksagonalną z wykorzystaniem "namiastki" wzorca CQRS.
+Aplikacja powstała w oparciu o architekturę heksagonalną z wykorzystaniem wzorca CQRS.
 
 #####Stos technologiczny:
 * Java 8

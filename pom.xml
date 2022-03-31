@@ -48,7 +48,7 @@
         <spring-boot-starter-security.version>1.5.4.RELEASE</spring-boot-starter-security.version>
         <spring-boot-starter-test.version>1.5.7.RELEASE</spring-boot-starter-test.version>
         <spring-boot-starter-hateoas.version>1.5.3.RELEASE</spring-boot-starter-hateoas.version>
-        <spring-boot-starter-web.version>1.5.7.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>2.5.12</spring-boot-starter-web.version>
         <spring-boot-starter.version>1.5.7.RELEASE</spring-boot-starter.version>
     </properties>
 
